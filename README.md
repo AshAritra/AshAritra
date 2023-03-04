@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aritra Mondal.</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm UnderTaker.</h1>
+<h3 align="center">A weeb dev. from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asharitra&label=Profile%20views&color=0e75b6&style=flat" alt="asharitra" /> </p>
 
